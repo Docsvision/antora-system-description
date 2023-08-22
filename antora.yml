@@ -1,4 +1,4 @@
-name: ROOT
+name: system
 version: 'dev'
 display_version: 'dev'
 prerelease: true
