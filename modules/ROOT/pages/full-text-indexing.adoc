@@ -25,4 +25,4 @@ exec dvsys_setting_set 'FullTextIndexing_RefreshTimeout', n <.>
 
 Полнотекстовое индексирование в Microsoft SQL выполняется с периодом обновления, установленным в Консоли настройки {dv} в xref:dev@platform:console:search-microsoft-change.adoc#update-every[настройке индексирования] _Обновлять индекс каждые_.
 
-include::platform:console:search-logging.adoc[tags=index-status]
+include::dev@platform:console:search-logging.adoc[tags=index-status]
