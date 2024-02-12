@@ -1,13 +1,12 @@
 .xref:index.adoc[Общее описание системы]
 * xref:index.adoc[Назначение системы]
 
-* Термины и оформление
-** xref:formatting.adoc[Соглашения по оформлению]
-** xref:terms.adoc[Перечень терминов и их определений]
-** xref:abbreviations.adoc[Перечень принятых сокращений]
+* xref:general.adoc[]
+** xref:formatting.adoc[]
+** xref:terms.adoc[]
+** xref:abbreviations.adoc[]
 
-* Описание системы
-** xref:modules.adoc[]
+* xref:modules.adoc[]
 ** xref:platform.adoc[]
 ** xref:worker-service.adoc[]
 ** xref:base-objects.adoc[]
@@ -19,7 +18,7 @@
 ** xref:approval-designer.adoc[]
 ** xref:external-interaction.adoc[]
 
-* Описание подсистем
+* xref:subsystems.adoc[]
 ** xref:security.adoc[]
 ** xref:database.adoc[]
 *** xref:db-tables.adoc[]
@@ -30,7 +29,7 @@
 ** xref:binary-storage.adoc[]
 ** xref:full-text-indexing.adoc[]
 
-* Лицензирование, документация и поддержка
+* xref:etc.adoc[]
 ** xref:licensing.adoc[]
 ** xref:documentations.adoc[]
 ** xref:technical-support.adoc[]
