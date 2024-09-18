@@ -1,5 +1,5 @@
 name: system
-version: ~
+version: 'dv5'
 title: Описание системы
 asciidoc:
   attributes:
